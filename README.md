@@ -2,7 +2,7 @@
 
 ## Runtime parameters
 ``> python neural-network.py <NInput> <NHidden> <NOutput> fashion-mnist_train.csv.gz
-fashion-mnist_ test.csv.gz``
+fashion-mnist_test.csv.gz``
 
 Where the meaning of each argument is:
 * ``NInput`` - number of neurons in the input layer
